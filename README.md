@@ -1,4 +1,4 @@
-#🤖 Rubika Mention Bot
+🤖 Rubika Mention Bot
 
 🇬🇧 English | 🇮🇷 فارسی
 
